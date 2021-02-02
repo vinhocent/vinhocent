@@ -3,5 +3,4 @@
 
 - 👨‍🎓 Studying Computer Science at the University of Waterloo
 - 💻 Currently Dualbooting Windows & Manjaro Linux <em>(check out my dotfiles!)</em>
-- 📖 Learning about Web Development right now
-
+- 📖 Learning ReactJS right now (switch from VueJS)
