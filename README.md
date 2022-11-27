@@ -1,4 +1,4 @@
-## Hi there 👋
-<!--img src="https://webusstatic.yo-star.com/ark_us_web/assets/159229525944611258/b05fc02b97949454e56c3b140790584e.png?x-oss-process=image/resize,w_200" align=right height=130em!-->
+> “That's what the world is , after all: an endless battle of contrasting memories.”
+― Haruki Murakami, 1Q84 
 
-- 👨‍🎓 Studying Computer Science at the University of Waterloo
+[// more](http://triho.me/)
